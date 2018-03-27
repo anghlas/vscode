@@ -1,0 +1,10 @@
+/home/andrew/vscode/dotnet/bin/Debug/netcoreapp2.0/dotnet.deps.json
+/home/andrew/vscode/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.json
+/home/andrew/vscode/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.dev.json
+/home/andrew/vscode/dotnet/bin/Debug/netcoreapp2.0/dotnet.dll
+/home/andrew/vscode/dotnet/bin/Debug/netcoreapp2.0/dotnet.pdb
+/home/andrew/vscode/dotnet/obj/Debug/netcoreapp2.0/dotnet.csproj.CoreCompileInputs.cache
+/home/andrew/vscode/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfoInputs.cache
+/home/andrew/vscode/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfo.cs
+/home/andrew/vscode/dotnet/obj/Debug/netcoreapp2.0/dotnet.dll
+/home/andrew/vscode/dotnet/obj/Debug/netcoreapp2.0/dotnet.pdb
